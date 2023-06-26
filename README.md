@@ -27,7 +27,7 @@ To view the modern chair project locally, follow these steps:
 
 3. Open the `index.html` file in your preferred web browser.
 
-4. [Explore](https://abhixsliet.github.io/modern-chair/) the modern chair design and practice your web development skills.
+4. [Explore](https://modern-chair-mini-project.netlify.app/) the modern chair design and practice your web development skills.
 
 ## Technologies Used
 
@@ -38,7 +38,7 @@ The following technologies were used to create the parallax effect:
 
 ## Resources
 
-For more information about web development and to learn more about the techniques used in this project, consider exploring the [Web Development Bootcamp](https://example.com) where these skills were acquired.
+For more information about web development and to learn more about the techniques used in this project, consider exploring the [Web Development Bootcamp](https://github.com/abhiXsliet/webDevelopment-Bootcamp) where these skills were acquired.
 
 ## Contributions
 
